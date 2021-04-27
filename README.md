@@ -1,5 +1,28 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Purpose
+
+to get used to with nextjs and tailwind
+
+# responsive view
+
+**web resolution**
+
+![Alt text](web.PNG?raw=true "web")
+
+
+**mobile resolution**
+
+![Alt text](mobile1.PNG?raw=true "mobile1")
+![Alt text](mobile2.PNG?raw=true "mobile2")
+
+
+## installed dependencies
+
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+
+npm install @material-ui/core @material-ui/icons
+
 ## Getting Started
 
 First, run the development server:
